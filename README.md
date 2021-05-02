@@ -15,8 +15,8 @@ So let's start.
 ### Table of contents
 
 * [Looking for UART](UART.md)
-* Uboot Commands
-* Getting the Nand
+* [Uboot Commands](UBOOT.md)
+* [Getting the Nand](NAND.md)
 * in progress
 
 
