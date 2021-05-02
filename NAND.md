@@ -76,3 +76,5 @@ python3 get-nand-send.py > pty1
 
 The python script is only for print the nand dump command every 2 seconds
 simulating the input.
+
+In a few days i got the nand. 
