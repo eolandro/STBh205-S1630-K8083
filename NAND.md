@@ -56,7 +56,7 @@ Well like i said my USB2SERIAL don't like two proccess in a single device
 But what about attach one process to device, and split the I/O in pipes 
 or something like that?
 
-(Teeterm) (https://github.com/kcghost/teeterm)
+[Teeterm](https://github.com/kcghost/teeterm)
 
 Teeterm splits the I/O of one process into two pseudoterminals. Now i 
 just put screen with serial device, cat and little python script.
